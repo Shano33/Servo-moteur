@@ -5,7 +5,7 @@ Servo servo;
 Servo servo1;
 
 int a = 1;
-//Allo sdawdawdawq
+//Allo shawn
 void setup()
 {
   servo.attach(8);
